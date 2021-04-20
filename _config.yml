@@ -65,8 +65,7 @@ permalink: "blog/:title"
 # Compress
 compress_html:
   clippings: all
-  
-highlighter: rouge
+ 
 
 # Defaults
 defaults:
